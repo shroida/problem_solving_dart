@@ -1,6 +1,7 @@
-void main() {
-  print('test');
-  print('test1');
-  print('test2');
+int scoreOfString(String s) {
+
   
+  return 0;
 }
+
+void main() {}
